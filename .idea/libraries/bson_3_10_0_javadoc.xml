@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="bson-3.10.0-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/bson-3.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/mongodb-driver-core-3.10.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/mongodb-driver-sync-3.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/bson-3.10.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/mongodb-driver-core-3.10.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/mongodb-driver-sync-3.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/bson-3.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/mongodb-driver-core-3.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/DAM2/AA1_Acces a dades/Miscelania/jars mongodb/mongodb-driver-sync-3.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
